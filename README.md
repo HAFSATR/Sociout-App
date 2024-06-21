@@ -100,35 +100,3 @@ To get started with Sociout, follow these steps:
 
 ## Screenshots
 
-Include some screenshots of your app here to give users a visual understanding of your project.
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-
-## Contributing
-
-We welcome contributions from the community. To contribute to Sociout, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
-
-Please ensure your code adheres to our coding guidelines and includes appropriate tests.
-
-## License
-
-Sociout is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
----
-
-Feel free to customize this README to better suit your project. Add more sections if needed, such as "FAQs" or "Troubleshooting," to help users and contributors.
-
-
-
-
-
-
-
-
