@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304291515936",
+    "project_id": "sociout-app-qasbd0e",
+    "storage_bucket": "sociout-app-qasbd0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304291515936:android:0e61eeeadf9926586bb645",
+        "android_client_info": {
+          "package_name": "com.example.sociout1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrzwSfIQq28Wif0Lswk0m-1zpEcQpahRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
